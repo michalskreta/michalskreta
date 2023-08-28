@@ -6,7 +6,8 @@ Stanford graduate student interested in technology, finance, and public policy. 
 
 ### Let's Connect!
 
-[LinkedIn][linkedin] | [X (Twitter)][x]
+[<img width="32" src="https://cdn.simpleicons.org/linkedin" />][linkedin] 
+[<img width="32" src="https://cdn.simpleicons.org/x" />][x]
 
 [linkedin]: https://www.linkedin.com/in/michalskreta
 [x]: https://x.com/michalskreta
