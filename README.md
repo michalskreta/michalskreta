@@ -1,4 +1,15 @@
-### Hi there 👋
+# Michal Skreta
+
+Stanford graduate student interested in technology, finance, and public policy. Originally from Warsaw, Poland.
+
+🎓 B.A. & M.S., Stanford University
+
+### Let's Connect!
+
+[LinkedIn][linkedin] | [X (Twitter)][x]
+
+[linkedin]: https://www.linkedin.com/in/michalskreta
+[x]: https://x.com/michalskreta
 
 <!--
 **michalskreta/michalskreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
